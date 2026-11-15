@@ -1,0 +1,6 @@
+{
+  "name": "AniCut 2D",
+  "description": "Offline-first 2D animation and video editor with keyframes, sprite sheets, multi-track timeline, and local MP4/WebM export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
